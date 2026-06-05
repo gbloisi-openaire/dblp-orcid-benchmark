@@ -1,0 +1,10 @@
+Scenario,Step,TP,FP,FN,TN,StepPrecision,PctOfTotalTP,PctOfTotalFP
+OpenAIRE matching,fullName,4483968,31764,0,0,0.9930,79.25,30.55
+OpenAIRE matching,invertedFullName,43144,1005,0,0,0.9772,0.76,0.97
+OpenAIRE matching,orderedTokens,1021024,64047,0,0,0.9410,18.05,61.61
+OpenAIRE matching,creditName,10688,1508,0,0,0.8764,0.19,1.45
+OpenAIRE matching,otherNames,25943,111,0,0,0.9957,0.46,0.11
+OpenAIRE matching,fullNameStrip,35347,1057,0,0,0.9710,0.62,1.02
+OpenAIRE matching,invertedFullNameStrip,843,240,0,0,0.7784,0.01,0.23
+OpenAIRE matching,Jaro-Winkler OrderedToken,36738,4227,0,0,0.8968,0.65,4.07
+OpenAIRE matching,(unmatched),0,0,879990,6271501,0.0000,0.00,0.00
