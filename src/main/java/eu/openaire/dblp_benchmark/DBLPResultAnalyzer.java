@@ -33,7 +33,7 @@ import java.util.stream.Collectors;
  * <p>Usage:
  * <pre>{@code
  * spark-submit --class eu.openaire.dblp_enricher.DBLPFalsePositiveAnalyzer \
- *   target/dblp-orcid-benchmark-0.1.1-SNAPSHOT.jar \
+ *   target/dblp-orcid-benchmark-0.1.1.jar \
  *   --cachePath <output>_joined_cache \
  *   --output <output-path>
  * }</pre>
